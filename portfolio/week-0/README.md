@@ -1,15 +1,15 @@
 # ALL the team's links and access details
 
-## GitHub repo URL (role A)
+### GitHub repo URL (role A)
 https://github.com/martin-chizhov/DACA-Marketing/
 
-## Supabase project URL + which organisation it's under (role B)
+### Supabase project URL + which organisation it's under (role B)
+https://supabase.com/dashboard/project/gxqjkdmccdykdzbyqsvo
 
-
-## NotebookLM notebook link (role C)
+### NotebookLM notebook link (role C)
 https://notebook.google.com/notebook/115fceb9-8cdc-4168-9331-674249ca38e7?authuser=2&pageId=none
 
-## Team Charter location (role D)
+### Team Charter location (role D)
 
 
 ## Members' names + starting roles:
