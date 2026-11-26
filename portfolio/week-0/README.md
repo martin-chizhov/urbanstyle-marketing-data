@@ -21,7 +21,7 @@ Eero Soots - eero.soots@gmail.com + NotebookLM Coordinator (Role C)
 
 Mayline Garcia - mayline.garcia@gmail.com + Team Charter Coordinator (Role D)
 
-Andrii Klymchuk - andrii.klymchuk@gmail.com + Portfolio Structure + Documentation (Role E)
+Andrii Klymchuk - andri.klymchuk@gmail.com + Portfolio Structure + Documentation (Role E)
 
 
 # How to read this portfolio
