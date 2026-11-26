@@ -1,4 +1,4 @@
-# ALL the team's links and access details
+# ALL the MARKETING team's links and access details
 
 ### GitHub repo URL (role A)
 https://github.com/martin-chizhov/DACA-Marketing/
@@ -13,17 +13,19 @@ https://notebook.google.com/notebook/115fceb9-8cdc-4168-9331-674249ca38e7?authus
 https://github.com/martin-chizhov/urbanstyle-marketing-data/blob/main/portfolio/week-0/charter.md
 
 ## Members' names + starting roles:
-Martin Tšižov - martin.chizhov@gmail.com + GitHub Repository Coordinator (Role A)
+**Martin Tšižov** - martin.chizhov@gmail.com + GitHub Repository Coordinator (**Role A**)
 
-Annie Joyce - anniejoycebell@gmail.com + Supabase Coordinator (Role B)
+**Annie Joyce** - anniejoycebell@gmail.com + Supabase Coordinator (**Role B**)
 
-Eero Soots - eero.soots@gmail.com + NotebookLM Coordinator (Role C)
+**Eero Soots** - eero.soots@gmail.com + NotebookLM Coordinator (**Role C**)
 
-Mayline Garcia - mayline.garcia@gmail.com + Team Charter Coordinator (Role D)
+**Mayline Garcia** - mayline.garcia@gmail.com + Team Charter Coordinator (**Role D**)
 
-Andrii Klymchuk - andri.klymchuk@gmail.com + Portfolio Structure + Documentation (Role E)
+**Andrii Klymchuk** - andri.klymchuk@gmail.com + Portfolio Structure + Documentation (**Role E**)
 
 
-# How to read this portfolio
-A summary file will be added weekly, including role rotation and current progress.
+#№ How to read this portfolio
+A summary file will be added weekly as README in the corresponding week, including role rotation and current progress.
+
+The file includes a map of projects with links to follow, as well as a list of performers in the corresponding role this week.
 
