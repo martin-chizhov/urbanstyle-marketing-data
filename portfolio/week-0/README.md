@@ -27,5 +27,5 @@ https://github.com/martin-chizhov/urbanstyle-marketing-data/blob/main/portfolio/
 ## How to read this portfolio
 A summary file will be added weekly as README in the corresponding week, including role rotation and current progress.
 
-The file includes a map of projects with links to follow, as well as a list of performers in the corresponding role this week.
+The file includes a map of projects with links to follow, as well as a list of performers in the corresponding role for the week.
 
