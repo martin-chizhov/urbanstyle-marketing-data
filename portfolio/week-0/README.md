@@ -10,7 +10,7 @@ https://supabase.com/dashboard/project/gxqjkdmccdykdzbyqsvo
 https://notebook.google.com/notebook/115fceb9-8cdc-4168-9331-674249ca38e7?authuser=2&pageId=none
 
 ### Team Charter location (role D)
-
+https://github.com/martin-chizhov/urbanstyle-marketing-data/blob/main/charter.md
 
 ## Members' names + starting roles:
 Martin Tšižov - martin.chizhov@gmail.com + GitHub Repository Coordinator (Role A)
