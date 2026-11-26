@@ -28,13 +28,15 @@ Google Chat – Marketing Data - G2_23.11.26-19.02.27
 
 5. Plan the role rotation:
 
-Week 1: A = Martin, B = Annie, C = Eero, D = Mayline, E = Andrii
+WEEK 1: A Martin | B Annie | C Eero | D Mayline | E Andrii
 
-Week 2: A = Mayline, B = Martin, C = Annie, D = Eero, E = Andrii
+WEEK 2: A Andrii | B Martin | C Annie | D Eero | E Mayline
 
-Week 3: A = Eero, B = Mayline, C = Martin, D = Annie, E = Andrii
+WEEK 3: A Mayline | B Andrii | C Martin | D Annie | E Eero
 
-Week 4: A = Annie, B = Eero, C = Mayline, D = Martin, E = Andrii
+WEEK 4: A Eero | B Mayline | C Andrii | D Martin | E Annie
+
+WEEK 5: A Annie | B Eero | C Mayline | D Andrii | E Martin
 
 6. All members confirm agreement:
 
