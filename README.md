@@ -4,10 +4,10 @@
 We are building a Marketing Analytics team focused on using data to understand customer behaviour, evaluate marketing performance, and identify business growth opportunities.
 
 ## Team
-| Member | Role | Task |
+| Member | Role | GitHub |
 |---|---|---|
-| A | **GitHub Repository Coordinator** | Martin Chizhov |
-| B | **Supabase Coordinator** | Annie Joyce |
-| C | **NotebookLM Coordinator** | Eero Soots |
-| D | **Team Charter Coordinator** | Mayline Garcia |
-| E | **Portfolio Structure + Documentation** | Andrii Klymchuk |
+| Martin Chizhov | **GitHub Repository Coordinator** | @martin-chizhov |
+| Annie Joyce | **Supabase Coordinator** | @annie1b |
+| Eero Soots | **NotebookLM Coordinator** | @eerosoots-blip |
+| Mayline Garcia  | **Team Charter Coordinator** | @mayline-garcia |
+| Andrii Klymchuk | **Portfolio Structure + Documentation** | @andri-klymchuk |
