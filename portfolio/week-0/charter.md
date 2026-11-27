@@ -14,7 +14,7 @@
 
 **GitHub repo:** https://github.com/martin-chizhov/urbanstyle-marketing-data
 
-**Supabase:** https://supabase.com/dashboard/project/qimkcwfamwqprxcnqopy
+**Supabase:** https://supabase.com/dashboard/project/gxqjkdmccdykdzbyqsvo/editor/17661?schema=public
 
 **NotebookLM:** https://notebook.google.com/notebook/115fceb9-8cdc-4168-9331-674249ca38e7
 
